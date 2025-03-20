@@ -19,6 +19,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="40" height="40"/>
     <a href="https://eclipseide.org" target="_blank" rel = "noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"  alt="eclipse" width="40" height="40"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmint8&label=Profile%20views&color=0e75b6&style=flat" alt="jmint8" /> </p>
   
   <!---
 jmint8/jmint8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

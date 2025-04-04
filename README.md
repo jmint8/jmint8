@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Design and Analysis of Algortihms 
 - 🙏 I’m looking to collaborate on anything really.
 - 📫 How to reach me mitchel.meier@centre.edu
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I run for Centre College🏃
 
 <h3 align="left">Languages and Tools:</h3>

@@ -25,6 +25,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"  alt="eclipse" width="40" height="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmint8&label=Profile%20views&color=0e75b6&style=flat" alt="jmint8" /> </p>
+<a href="https://github.com/jmint8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmint8&layout=compact" />
+</a>
   
   <!---
 jmint8/jmint8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

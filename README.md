@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmint8 (Mitch)
 - 👀 I’m interested in learning new fields of CS
-- 🌱 I’m currently learning Design and Analysis of Algortihms 
+- 🌱 I’m currently learning Theory of Computation and Database Systems
 - 🙏 I’m looking to collaborate on anything really.
 - 📫 How to reach me mitchel.meier@centre.edu
 - ⚡ Fun fact: I run for Centre College🏃
